@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('/fonts/Roboto-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }
+
+  @font-face {
+    font-family: 'RobotoLight';
+    src: url('/fonts/Roboto-Thin.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }

@@ -5,6 +5,9 @@ h1 {
 }
 
 ul {
-    color: white;
     background-color: green;
+}
+
+li {
+    color: white;
 }
